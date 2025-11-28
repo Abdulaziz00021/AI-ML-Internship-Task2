@@ -67,6 +67,3 @@ Target Variable:
 * The model performs well for short-term forecasting (1-day ahead).
 * Sudden market spikes, news events, and financial announcements still create prediction errors (normal for ML models).
 * Adding more technical indicators (RSI, MACD, SMA) can further improve accuracy.
-
-✅ Add a **Project Structure section**
-Just tell me!
